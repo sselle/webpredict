@@ -1,0 +1,1 @@
+webbased app built with bokeh lib to query api from dataiku
